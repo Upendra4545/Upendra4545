@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/upendra-pathivada-50ba89200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/upendra-pathivada-50ba89200" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/upendrapathivada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/upendra-pathivada-50ba89200" height="30" width="40" /></a>
 <a href="https://www.instagram.com/upendra_99___?igsh=MWFibG02bGJ1ajM5ZA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/upendra_99_?igsh=mwfibg02bgj1ajm5za==" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/upendra_4545/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/upendra_4545/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/pathivadaupendra243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/pathivadaupendra243/" height="30" width="40" /></a>
